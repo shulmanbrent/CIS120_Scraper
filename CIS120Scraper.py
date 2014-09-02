@@ -26,7 +26,7 @@ for link in links:
             
             #local directory for my files
             #changes necessary for use on other computer
-            base_path = "C:\Users\Brent\Documents\CIS 120"
+            base_path = "C:\Users\Brent\Documents\CIS 120\Lectures"
             
             file_name = file.replace(".pdf", "")
             local_path = os.path.join(base_path, file_name)
