@@ -2,6 +2,8 @@ import sys
 import os, urllib, re
 from bs4 import BeautifulSoup
 
+#working directory must be C:\Users\Brent\Documents\CIS 120
+
 
 global local_path
 
